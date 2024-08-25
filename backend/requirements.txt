@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+pymongo
+redis
+apache-airflow
+pandas
+scikit-learn
+tensorflow
+python-jose[cryptography]
+passlib[bcrypt]
